@@ -1,0 +1,16 @@
+a {
+    color:red; 
+    text-decoration:none;
+}
+
+h1{
+    font-family:sans-serif; 
+    color:blue;
+    margin-left:250px; 
+    text-decoration:none;
+}
+div{
+    width: 500px;
+    margin:auto;
+    background:green;
+}
